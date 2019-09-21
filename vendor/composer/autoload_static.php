@@ -9,12 +9,12 @@ class ComposerStaticInit87a17bb1c13ccba7a27527d96776ed7f
     public static $prefixLengthsPsr4 = array (
         'H' => 
         array (
-            'HCODE\\' => 6,
+            'Hcode\\' => 6,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'HCODE\\' => 
+        'Hcode\\' => 
         array (
             0 => __DIR__ . '/..' . '/hcodebr/php-classes/src',
         ),
