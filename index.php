@@ -11,9 +11,13 @@ $app->get('/', function() {
 	$sql = new Hcode\DB\Sql();
 
 	$results = $sql->select("SELECT * FROM tb_users");
+	
+	var_dump($results);
 
 	echo json_encode($results);
 
+	
+	
 });
 
 $app->run();
