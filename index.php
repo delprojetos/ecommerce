@@ -12,11 +12,7 @@ $app->get('/', function() {
 
 	$results = $sql->select("SELECT * FROM tb_users");
 	
-	var_dump($results);
-
-	echo json_encode($results);
-
-	
+	echo json_encode($results);	
 	
 });
 
