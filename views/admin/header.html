@@ -14,9 +14,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Bootstrap 3.3.6 -->
     <link rel="stylesheet" href="/res/admin/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/res/admin/"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- Ionicons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="/res/admin/"https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="/res/admin/dist/css/AdminLTE.min.css">
     <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
@@ -93,7 +93,7 @@ desired effect
                                             <a href="#">
                                                 <div class="pull-left">
                                                     <!-- User Image -->
-                                                    <img src="/res/admin/dist/img/user2-160x160.jpg" class="img-circle"
+                                                    <img src="/res/admin/"/res/admin/dist/img/user2-160x160.jpg" class="img-circle"
                                                         alt="User Image">
                                                 </div>
                                                 <!-- Message title and timestamp -->
@@ -182,14 +182,14 @@ desired effect
                             <!-- Menu Toggle Button -->
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                 <!-- The user image in the navbar-->
-                                <img src="/res/admin/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+                                <img src="/res/admin/"/res/admin/"/res/admin/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
                                 <!-- hidden-xs hides the username on small devices so only the image appears. -->
                                 <span class="hidden-xs">Alexander Pierce</span>
                             </a>
                             <ul class="dropdown-menu">
                                 <!-- The user image in the menu -->
                                 <li class="user-header">
-                                    <img src="/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                    <img src="/res/admin/"/res/admin/"/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                                     <p>
                                         Alexander Pierce - Web Developer
@@ -239,7 +239,7 @@ desired effect
                 <!-- Sidebar user panel (optional) -->
                 <div class="user-panel">
                     <div class="pull-left image">
-                        <img src="/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        <img src="/res/admin/"/res/admin/"/res/admin/"/res/admin/"/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
                     </div>
                     <div class="pull-left info">
                         <p>Alexander Pierce</p>
